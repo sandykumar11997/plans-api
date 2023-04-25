@@ -5,4 +5,4 @@ spring:
     driver-class-name: org.h2.Driver
     password: ashokit
     url: jdbc:h2:mem:ashokit
-    username: ashokit
+    username: 
